@@ -3,11 +3,11 @@
 Repository for Team GR:
 
 - **Arne Günther**
-- **Magdalena Puljiz**
+- **Magdalena P.**
 - **Pedro Retzkowski**
 
 ## Implementations
 
 - **TD3_CrossQ_PinkNoise** — Arne Günther  
 - **DDQN** — Pedro Retzkowski  
-- **TD3PER** — Magdalena Puljiz
+- **TD3PER** — Magdalena P.
