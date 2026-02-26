@@ -1,0 +1,20 @@
+{
+  "v1 TD3 PER": {
+    "Strong Basic": {
+      "wins": 21,
+      "losses": 0,
+      "draws": 9,
+      "win_rate": 70.0,
+      "loss_rate": 0.0,
+      "draw_rate": 30.0
+    },
+    "Weak Basic": {
+      "wins": 18,
+      "losses": 0,
+      "draws": 12,
+      "win_rate": 60.0,
+      "loss_rate": 0.0,
+      "draw_rate": 40.0
+    }
+  }
+}
